@@ -85,4 +85,5 @@ detailing_type choices:
 0 for Current weather 
 1 for Minute forecast for 1 hour
 2 for Hourly forecast for 48 hours
-3 for Daily forecast for 7 days```
+3 for Daily forecast for 7 days
+```
